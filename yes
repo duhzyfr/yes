@@ -24,7 +24,7 @@
 	--textdarker: 				125, 125, 125;
 	--textdarkest: 				90, 90, 90;
 	
-	--background:				url(https://i.imgur.com/x2Geheb.jpeg);
+	--background:				url(https://i.imgur.com/2pgF6oj.jpeg);
 	--backgroundposition:			center;
 	--backgroundsize:			cover;
 	--backgroundblur:			0;
